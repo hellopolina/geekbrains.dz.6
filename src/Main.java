@@ -12,6 +12,5 @@ public class Main {
         Dog dog =  new Dog(500, 10);
         dog.run(550);
         dog.swim(9);
-
     }
 }
